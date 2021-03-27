@@ -11,8 +11,8 @@
 ```javascript
 const quan = {
   pronouns: "he" | "him",
-  code: [PHP, HTML, CSS, Javascript, Java],
-  tools: [Laravel],
+  codes: [PHP, HTML, CSS, Javascript, Java],
+  framworks: [Laravel],
   challenge: "learn frontend"
 }
 ```
