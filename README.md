@@ -12,7 +12,7 @@
 const quan = {
   pronouns: "he" | "him",
   codes: [PHP, HTML, CSS, Javascript, Java],
-  framworks: [Laravel],
+  frameworks: [Laravel],
   challenge: "learn frontend"
 }
 ```
