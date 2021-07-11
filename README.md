@@ -1,4 +1,4 @@
-<h2> Hi, I'm Quân! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Deadline Slayer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/qRbB7EuMGPSlLMPENy/giphy.gif" width="230">
 
 [![Facebook: Quân](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pyl.walker/)
@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const quan = {
+const deadlineSlayer = {
   pronouns: "he" | "him",
   codes: [PHP, HTML, CSS, Javascript, Java],
   frameworks: [Laravel],
