@@ -12,7 +12,7 @@
 const deadlineSlayer = {
   pronouns: "he" | "him",
   codes: [PHP, HTML, CSS, Javascript],
-  frameworks: [Laravel, Vuejs
+  frameworks: [Laravel, Vuejs]
   challenge: "learn frontend"
 }
 ```
