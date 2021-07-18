@@ -11,8 +11,8 @@
 ```javascript
 const deadlineSlayer = {
   pronouns: "he" | "him",
-  codes: [PHP, HTML, CSS, Javascript, Java],
-  frameworks: [Laravel],
+  codes: [PHP, HTML, CSS, Javascript],
+  frameworks: [Laravel, Vuejs
   challenge: "learn frontend"
 }
 ```
