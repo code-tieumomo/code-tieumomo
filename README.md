@@ -17,3 +17,6 @@ const deadlineSlayer = {
 }
 ```
 ---
+<div> 
+  ![Snake animation](https://github.com/HelpMe-Pls/HelpMe-Pls/blob/output/github-contribution-grid-snake.svg)
+</div>
