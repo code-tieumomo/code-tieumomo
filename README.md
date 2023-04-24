@@ -1,4 +1,4 @@
-<h2> Hi, I'm Deadline Slayer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Quân! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/qRbB7EuMGPSlLMPENy/giphy.gif" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-tieumomo&label=Profile%20views&color=0e75b6&style=flat" alt="code-tieumomo" /> </p>
 
