@@ -11,7 +11,7 @@
 ```javascript
 const quanph = {
   pronouns: "he" | "him",
-  codes: [PHP, HTML, CSS, Javascript],
+  codes: [PHP, HTML, CSS, Javascript, MYSQL],
   frameworks: [Laravel, Vuejs]
   challenge: "learn frontend"
 }
